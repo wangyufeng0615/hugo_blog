@@ -1,0 +1,8 @@
+[[entries]]
+title = "Blogs"
+
+  [entries.post_list]
+  limit = 50
+  show_more = true
+  show_more_text = "See more..."
+  show_more_url = "posts"
