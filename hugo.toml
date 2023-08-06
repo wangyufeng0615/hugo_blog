@@ -1,0 +1,4 @@
+baseURL = 'http://wangyufeng.org/'
+languageCode = 'en-us'
+title = '王雨峰的博客'
+theme = 'nostyleplease'
